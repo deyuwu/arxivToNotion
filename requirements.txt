@@ -1,3 +1,5 @@
 arxiv
 openai
 boto3
+notion_client
+python-dotenv
